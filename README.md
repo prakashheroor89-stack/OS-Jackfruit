@@ -4,8 +4,8 @@
 
 | Name | SRN |
 |------|-----|
-| Shreeranganath M Saravade | PES1UG24CS622 |
-| Suhas Bajantri | PES1UG24CS631 |
+| Prakash N Heroor | PES1UG24CS595 |
+| Punit Nikil | PES1UG24CS601 |
 
 ---
 
